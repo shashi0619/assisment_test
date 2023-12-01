@@ -1,0 +1,60 @@
+.mainWrapper {
+  padding: 0 20px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.rowContainer{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.colomStyle{
+  border: 6px solid black;
+   padding: 20px;
+}
+
+.textDetail{
+  padding: 20px
+}
+
+
+.text_1{
+  background-color: aqua;
+}
+
+.text_2{
+  background-color:aquamarine
+}
+
+.text_3{
+  background-color: beige;
+}
+
+.text_4{
+  background-color:burlywood
+}
+
+.text_5{
+  background-color:violet
+}
+
+.primaryColor {
+  color: blue;
+  padding: 20px
+
+}
+
+.logoButton{
+  padding: 0 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+img.imageStyleone {
+  width: 123px;
+  height: 90px;
+}
